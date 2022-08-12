@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "5d3c4b57be3a9246",
+    "type": "split",
+    "children": [
+      {
+        "id": "21f3d94db73cc647",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mathematics/calculus/2-introduction-to-derivatives.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb48f361211fa3f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a8fab8000527e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b11740f20579bec8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8ccdb4b69b7db4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c4775e22472996f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3934e244620182e",
+    "type": "split",
+    "children": [
+      {
+        "id": "375845f968083ff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5414c8be6cca6742",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mathematics/calculus/2-introduction-to-derivatives.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f13b91304a63e07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mathematics/calculus/2-introduction-to-derivatives.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e38ad8f2b262edf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d1026a60ff767b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mathematics/calculus/2-introduction-to-derivatives.md"
+              }
+            }
+          },
+          {
+            "id": "ec4fe82bcb74c06c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "21f3d94db73cc647",
+  "lastOpenFiles": [
+    "mathematics/calculus/1-limits-and-continuity.md",
+    "mathematics/calculus/0-review-of-algebra-and-trig.md",
+    "computer-science/javascript/0. What is JavaScript.md",
+    "mathematics/calculus/4. Introduction to Integrals.md",
+    "computer-science/javascript/async-javascript.md",
+    "computer-science/programming-basics/JavaScript Basics.md",
+    "mathematics/calculus/3. Applications of Derivatives.md",
+    "mathematics/calculus/2-introduction-to-derivatives.md",
+    "mathematics/calculus/5. Applications of Integrals.md",
+    "mathematics/calculus/6. Integration Techniques.md"
+  ]
+}

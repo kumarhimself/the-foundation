@@ -1,0 +1,9 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Note Template",
+      "path": "template-folder/note-template.md"
+    }
+  ]
+}
