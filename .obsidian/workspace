@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathematics/calculus/2-introduction-to-derivatives.md",
+            "file": "mathematics/calculus/0. Review of Algebra and Trigonometry.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathematics/calculus/2-introduction-to-derivatives.md",
+                "file": "mathematics/calculus/0. Review of Algebra and Trigonometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mathematics/calculus/2-introduction-to-derivatives.md",
+                "file": "mathematics/calculus/0. Review of Algebra and Trigonometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mathematics/calculus/2-introduction-to-derivatives.md"
+                "file": "mathematics/calculus/0. Review of Algebra and Trigonometry.md"
               }
             }
           },
@@ -139,6 +139,7 @@
   },
   "active": "21f3d94db73cc647",
   "lastOpenFiles": [
+    "mathematics/calculus/1. Limits and Continuity.md",
     "mathematics/calculus/1-limits-and-continuity.md",
     "mathematics/calculus/0-review-of-algebra-and-trig.md",
     "computer-science/javascript/0. What is JavaScript.md",
@@ -147,7 +148,6 @@
     "computer-science/programming-basics/JavaScript Basics.md",
     "mathematics/calculus/3. Applications of Derivatives.md",
     "mathematics/calculus/2-introduction-to-derivatives.md",
-    "mathematics/calculus/5. Applications of Integrals.md",
-    "mathematics/calculus/6. Integration Techniques.md"
+    "mathematics/calculus/5. Applications of Integrals.md"
   ]
 }
