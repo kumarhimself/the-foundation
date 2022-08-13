@@ -1,6 +1,6 @@
 # Genesis MOC
 ## Welcome
-Hello reader, my name is Ayush Kumar, and this vault contains all my notes across a variety of topics. If you want more information about this vault and how to update it, view the [[README]].
+Hello reader, this is the entry point for all fields and subject MOCs. Some fields will list MOCs in academic order while others are in alphabetical or chronological order. If you want more information about this vault and how to update it, view the [[README]] file.
 
 ## Launchpoints
 ### Mathematics 
