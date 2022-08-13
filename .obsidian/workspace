@@ -139,15 +139,15 @@
   },
   "active": "21f3d94db73cc647",
   "lastOpenFiles": [
-    "mathematics/calculus/4. Introduction to Integrals.md",
+    "genesis-moc.md",
     "README.md",
-    "mathematics/calculus/0. Review of Algebra and Trigonometry.md",
-    "mathematics/calculus/1. Limits and Continuity.md",
-    "mathematics/calculus/3. Applications of Derivatives.md",
-    "mathematics/calculus/2. Introduction to Derivatives.md",
-    "mathematics/calculus/1-limits-and-continuity.md",
-    "mathematics/calculus/0-review-of-algebra-and-trig.md",
-    "computer-science/javascript/0. What is JavaScript.md",
-    "computer-science/javascript/async-javascript.md"
+    "template-folder/note-template.md",
+    "mathematics/calculus/0-calculus-moc.md",
+    "mathematics/calculus/12-third-dimensional-space.md",
+    "mathematics/calculus/11-vectors.md",
+    "mathematics/calculus/10-series-and-sequences.md",
+    "mathematics/calculus/9-parametric-equations-and-polar-coordinates.md",
+    "mathematics/calculus/8-more-applications-of-integrals.md",
+    "mathematics/calculus/7-integration-techniques.md"
   ]
 }

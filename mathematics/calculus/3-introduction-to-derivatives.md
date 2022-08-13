@@ -47,4 +47,4 @@ $$[cot^{-1}(x)]'=-\frac{1}{1+x^{2}}$$
 ## Chain Rule
  - Suppose that we have two functions, $f(x)$ and $g(x)$ and they are both differentiable. If we define $F(x)=(f \cdot g)(x)$, then the derivative of $F(x)$ is: $$F'(x) = f'(g(x)) \cdot g'(x)$$
 
-Next Section: [[3. Applications of Derivatives]]
+Next Section: [[4-applications-of-derivatives]]

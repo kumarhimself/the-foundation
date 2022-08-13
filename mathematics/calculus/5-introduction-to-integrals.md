@@ -38,7 +38,7 @@ $$\int\frac{1}{\sqrt{1-x^{2}}}dx=sin^{-1}(x)$$
 $$\int f(g(x))g'(x)dx = \int f(u)du$$
 where $u=g(x)$
 
-## The Area Problem
+## Definite Integrals and the Area Problem
  - How to find area under the curve for non-linear curves?
 
 ### Riemann Summations
@@ -49,5 +49,23 @@ where $u=g(x)$
  - The rectangle height can  take the function value at either the right or left endpoint
 	 - One endpoint over estimates the area while the other underestimates the area under the curve
  - Increasing the number of subintervals will make the estimation of the area under the curve more accurate
+ - Can use summation (sigma) notation to represent the summation of the rectangles: $$A \approx \sum_{i=1}^{n} f(x_{i})\Delta x$$
+ - This is the definition of a Riemann Sum
+ - As the number of subintervals (n) increases, the area under the curve will become more accurate
+ - In fact, if we let n go out to infinity, we will get the exact area, which can be best represented by the following: $$A \approx \lim_{n \to \infty} \sum_{i=1}^{n} f(x_{i})\Delta x$$
+ - $i$ represents the current x-value and the $ith$ rectangle
+ - The endpoints of each subinterval are:
+	 - $x_{0} = a$
+	 - $x_{1} = a + \Delta x$
+	 - $x_{2} = a + 2\Delta x$
+	 - $x_{i} = a + i\Delta x$
+	 - $x_{n - 1} = a + (n - 1)\Delta x$
+	 - $x_{n} = a + n\Delta x = b$
 
-Next Section: [[5. Applications of Integrals]]
+### Definition of the Definite Integral
+ - Given a function $f(x)$ that is continuous on the interval $[a, b]$ and divided into n subintervals of equal width, $\Delta x$, and from each interval choose a point $x_{i}$, the definite integral of $f(x)$ from a to b is: $$\int_{a}^{b}f(x)dx=\lim_{n \to \infty}\sum_{i=1}^n f(x_{i})\Delta x$$
+ - The variables a and b represent the lower and upper limits respectively
+	 - Collectively, the variables a and b represents the interval of integration
+ - 
+
+Next Section: [[6-applications-of-integrals]]

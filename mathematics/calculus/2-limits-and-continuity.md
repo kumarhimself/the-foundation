@@ -11,6 +11,9 @@
 	 - The secant line can represent an average rate of change (ARC) while the tangent line can represent an instantaneous rate of change (IRC) at $x = a$
 
 ### Change in Notation
+
+^253a0e
+
  - Instead of using the slope of the tangent equation presented above, we can use another equation that is dependant on how far a point is from the tangent line
  - If we want to move a distance of h from $x = a$, then the new point would be located at $x = a + h$ (h can be positive or negative)
  - Replace x in $f(x)$ with $a + h$ and simplfy: $$m_{PQ} = \frac{f(x) - f(a)}{x - a} = \frac{f(a + h) - f(a)}{h}$$

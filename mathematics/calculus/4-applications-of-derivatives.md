@@ -91,4 +91,4 @@
 	3. Evaluate the function at $x_{n+1}$
 	4. Keep on following steps 1-3 until you find a value of x in which the function is an approximation of zero
 
-Next Section: [[4. Introduction to Integrals]]
+Next Section: [[5-introduction-to-integrals]]
