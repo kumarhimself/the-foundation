@@ -66,6 +66,32 @@ where $u=g(x)$
  - Given a function $f(x)$ that is continuous on the interval $[a, b]$ and divided into n subintervals of equal width, $\Delta x$, and from each interval choose a point $x_{i}$, the definite integral of $f(x)$ from a to b is: $$\int_{a}^{b}f(x)dx=\lim_{n \to \infty}\sum_{i=1}^n f(x_{i})\Delta x$$
  - The variables a and b represent the lower and upper limits respectively
 	 - Collectively, the variables a and b represents the interval of integration
- - 
+
+### Properties of Definite Integrals
+$$\int_a^bf(x)dx=-\int_b^af(x)dx$$
+$$\int_a^af(x)dx=0$$
+$$\int_a^bcf(x)dx=c\int_a^bf(x)dx$$
+$$\int_a^b[f(x) \pm g(x)]dx=\int_a^bf(x)dx \pm \int_a^bg(x)dx$$
+$$\int_a^bf(x)dx = \int_a^cf(x)dx + \int_c^bf(x)dx$$
+$$\int_a^bcdx=c(b-a)$$
+### Net Change Theorem
+ - This interpretation of the definite integral states that if $f(x)$ is some quantity and $f'(x)$ is the rate of change of said quantity, then: $$\int_a^bf'(x)dx=f(b)-f(a)$$
+ - In other words, computing the integral of the rate of change will output the net change in the quantity
+ - This theorem only makes sense if we are integrating a derivative
+
+## Fundamental Theorem of Calculus
+### Part One
+ - This part tells us how to differentiate definite integrals
+ - If $f(x)$ is continuous on $[a, b]$, then: $$g(x)=\int_a^xf(t)dt$$
+ - If we differentiate $g(x)$, we get the following: $g'(x)=f(x)$
+ - As seen above, the lower limit must be a constant s and the upper limit must be a variable x
+ - Important Formulae:
+$$\frac{d}{dx}\int_a^{u(x)}f(t)dt = u'(x)f(u(x))$$
+$$\frac{d}{dx}\int_{v(x)}^af(t)dt = -\frac{d}{dx}\int_a^{v(x)}f(t)dt=-v'(x)f(v(x))$$
+$$\frac{d}{dx}\int_{v(x)}^{u(x)}f(t)dt = -\frac{d}{dx}\left[\int_{v(x)}^af(t)dt+\int_a^{u(x)}f(t)dt\right] = -v'(x)f(v(x)) + u'(x)f(u(x))$$
+
+### Part Two
+ - Suppose that $f(x)$ is a continuous function on $[a, b]$ and also suppose that $F(x)$ is the anti-derivative of $f(x)$. Then: $$\int_a^bf(x)=F(x)\vert_a^b=F(b)-F(a)$$
+ - When evaluating the integral using this method, don't bother including the constant after integration as it will get cancelled out in the long run
 
 Next Section: [[6-applications-of-integrals]]

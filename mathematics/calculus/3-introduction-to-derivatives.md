@@ -3,7 +3,7 @@
 
 ## Definition of a Derivative
  - The derivative of $f(x)$ with respect to x is the function $f'(x)$ and is defined as: $$f'(x)=\lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$$
- - A function is called differentiable at $ x = a$ if $f'(a)$ exists and $f(x)$ is called differentiable on an interval if the derivative exists for each point in that interval
+ - A function is called differentiable at $x = a$ if $f'(a)$ exists and $f(x)$ is called differentiable on an interval if the derivative exists for each point in that interval
 	 - If $f(x)$ if differentiable at $x = a$, then the function is also continuous
 		 - This theorem does not work in reverse!
 

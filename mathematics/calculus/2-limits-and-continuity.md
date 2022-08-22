@@ -69,13 +69,13 @@ $$
 ### Properties of Infinite Limits
  - Given the functions $f(x)$ and $g(x)$, suppose that: $$\lim_{x \to c}f(x) = \infty \,\, \lim_{x \to c}g(x) = L$$Then the following are true:
 $$
-1. \lim_{x \to c}[f(x) \pm g(x)] = \infty
+\lim_{x \to c}[f(x) \pm g(x)] = \infty
 $$
 $$
-2. \lim_{x \to c}[f(x) \cdot g(x)] = \pm\infty
+\lim_{x \to c}[f(x) \cdot g(x)] = \pm\infty
 $$
 $$
-4. \lim_{x \to c} \left[\frac{g(x)}{f(x)}\right] = 0
+\lim_{x \to c} \left[\frac{g(x)}{f(x)}\right] = 0
 $$
  - Property two depends on the sign of $g(x)$
 
@@ -95,4 +95,4 @@ $$
  - Suppose that $f(x)$ is continuous on $[a, b]$ and let M be an number between $f(a)$ and $f(b)$. Then there exists a number c such that $a < c < b$ and $f(c) = M$
  - A continuous function will take on all values between $f(a)$ and $f(b)$
 
-Next Section: [[2-introduction-to-derivatives]]
+Next Section: [[3-introduction-to-derivatives]]

@@ -33,13 +33,14 @@
 
 ## Trigonometric Functions
  - Remember this table:
+
 | Degrees | Radians | sinx | cosx | tanx |
 | ------- | ------- | ---- | ---- | ---- |
-| 0  | 0 | 0 | 1 | 0 |
-| 30 | $\frac {\pi}{6}$ | $\frac{1}{2}$  | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{3}}{3}$ |
-| 45 | $\frac {\pi}{4}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{2}}{2}$ | 1 |
-| 60 | $\frac {\pi}{3}$ | $\frac{\sqrt{3}}{2}$ | $\frac{1}{2}$ | $\sqrt{3}$ |
-| 90 | $\frac {\pi}{2}$ | 1 | 0 | Undefined |
+| 0       | 0       | 0      | 1     | 0     |
+| 30      | $\pi/6$ | $\frac{1}{2}$     | $\frac{\sqrt3}{2}$     | $\frac{1}{\sqrt3}$     |
+| 45      | $\pi/4$ | $\frac{\sqrt2}{2}$     | $\frac{\sqrt2}{2}$     | 1     |
+| 60      | $\pi/3$ | $\frac{\sqrt3}{2}$     | $\frac{1}{2}$     | $\sqrt3$     |
+| 90      | $\pi/2$ | 1     | 0     | Undefined     |
  - You can determine in which quadrant the angle lies by multiplying $0, \frac{\pi}{2}, \pi, \frac{3\pi}{2},$ and $2\pi$ by a number to get the common denominator and determine in which interval the angle lies
 	 - Example: Find the quadrant that $\frac{2\pi}{3}$ lies in
 		 - Finding the common denominator of $0, \frac{\pi}{2}, \pi, \frac{3\pi}{2},$ and $2\pi$ that corresponds to $\frac{2\pi}{3}$, we get $0, \frac{3\pi}{6}, \frac{6\pi}{6}, \frac{9\pi}{6}, and \frac{12\pi}{6}$. As we can see, the angle is in between $\frac{3\pi}{6}$ and $\frac{6\pi}{6}$ and therefore, $\frac{2\pi}{3}$ lies in the second quadrant.
@@ -51,4 +52,25 @@
  - You can tell which angle has the same value (not including sign) as the one above by looking at the denominator
 	 - Evaluate $sin(\frac{2\pi}{3})$ - Since the denominator of the angle is 3, we know that it corresponds to $\frac{\pi}{3}$ from the table, and therefore, we know that the value of the expression is $-\frac{\sqrt{3}}{2}$ (it is also negative because of the ASTC ancronym)
 
-Next Section: [[1-limits-and-continuity]]
+## Summation (Sigma) Notation
+ - Let's say we have two integers n and m, with $n < m$ and a list of numbers denoted as: $$a_{n}, a_{n+1}, a_{n+2}, \ldots, a_{m-2}, a_{m-1}, a_{m}$$
+ - Adding them up will get the following: $$a_{n} + a_{n+1} + a_{n+2} + \ldots + a_{m-2} + a_{m-1} + a_{m}$$
+ - In order to simplify this notation we can write the following: $$\sum_{i=n}^ma_{i} = a_{n} + a_{n+1} + a_{n+2} + \ldots + a_{m-2} + a_{m-1} + a_{m}$$
+ - This notation tells us to add up all the $a_{i}$ for all integers starting at n and ending at m
+ - $i$ is the initial number and m is the limit of the summation
+
+### Properties
+ - If c is a constant, then: $$\sum_{i=i_{0}}ca_{i} = c\sum_{i=i_{0}}a_{i}$$
+ - We can break a summation across a sum or difference: $$\sum_{i=i_{0}}^n(a_{i} \pm b_{i}) = \sum_{i=i_{0}}^na_{i} \pm \sum_{i=i_{0}}^nb_{i}$$
+ - Note that while we can break up sums and differences, we cannot do the same for products and quotients
+
+### Formulae
+ - These formulae are only true if $i=1$
+$$\sum_{i=1}^nc=cn$$
+$$\sum_{i=i_{0}}^ni = \frac{n(n+1)}{2}$$
+$$\sum_{i=i_{0}}^ni^{2} = \frac{n(n+1)(2n+1)}{6}$$
+$$\sum_{i=i_{0}}^ni^{3} = \left[\frac{n(n+1)}{2}\right]^2$$
+
+
+
+Next Section: [[2-limits-and-continuity]]

@@ -7,10 +7,13 @@ Hello reader, this is the entry point for all fields and subject MOCs. Some fiel
 [[0-calculus-moc|Calculus MOC]]
 
 ### Computer Science
+[[0-java-moc|Java MOC]]
 
 ### Foreign Languages
+[[0-hindi-moc|Hindi MOC]]
 
 ### Literature
+[[0-bible-moc|Bible MOC]]
 
 
 

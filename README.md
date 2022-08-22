@@ -1,6 +1,6 @@
 Dear Reader,
 
-Welcome to the Foundation, a public vault consisting of notes from various subjects such as mathematics and literature. The goal of this Obsidian vault is to provide a comprehensive set of notes and to create an intricate web of ideas from different subjects and fields. 
+Welcome to the Foundation, a public vault consisting of notes from subjects that I have taken in university or subjects that I have taken interest in outside of any academic environment. The goal of this Obsidian vault is to easily write, read, and connect the notes.
 
 The advantage of writing notes in markdown can be described in three reasons:
 1. Markdown is accessible everywhere and will be for the foreseeable future
@@ -13,7 +13,7 @@ After doing a bit of research, I decided to follow the Map of Contents (MOC) fra
 
 Because this vault is public on GitHub, you are allowed to use, reproduce, and edit my notes. All I ask is that you do not add anything inappropriate or take credit for my work.
 
-Although you can read the notes on GitHub, some content won't display correctly. You can `git clone` the vault to your local machine and open it with the Obsidian note app (you will need git installed on your local machine to do this).
+Although you can read the notes on GitHub, some of the content will not display correctly. You can `git clone` the vault to your local machine and open it with the Obsidian note app (you will need git installed on your local machine to do this).
 
 Here are the instructions for `cloning` the vault from GitHub:
 1. Open your command-line interface
@@ -26,7 +26,7 @@ When you want to update your local copy of the vault, follow these instructions:
 
 If you don't know how to use Git, I highly recommend you learn what it is and how to use it as it is an extremely useful tool and will no doubt have big implications in many industries. Here is the link to a great tutorial on YouTube: [Git Tutorial for Beginners](https://www.youtube.com/watch?v=8JJ101D3knE)
 
-I hope you have a great experience reading my notes!
+I hope you enjoy reading the notes!
 
 Sincerely,
 
